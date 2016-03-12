@@ -72,3 +72,6 @@ Use docker-compose logs/docker logs for troubleshooting.
 Don't use 'localhost' or '127.0.0.1'.
 
 *Author(s):* [![Adron Hall](https://github.com/adron-orange/systemic-dockaf/blob/master/AdronHall.png?raw=true)](http://compositecode.com) @ **[Github](https://www.github.com/adron-orange)** or **[Twitter](https://twitter.com/adron_orange)**.
+
+**[Credits & Additional References](./references.md)**
+
